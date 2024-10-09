@@ -1,0 +1,43 @@
+@import 'variables.scss';
+
+// Sobreescribimos variables
+$primary: $primary-color;
+
+@import 'bootstrap/scss/bootstrap';
+@import '/node_modules/bootstrap/scss/root';
+
+.btn,
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn:first-child:active {
+  color: #fff;
+}
+
+ngb-pagination ul {
+  margin-bottom: 0;
+}
+
+.btn-primary {
+  &:disabled {
+    background-color: $light-gray;
+    border-color: $light-gray;
+  }
+}
+
+.btn-outline-primary {
+  color: $primary-color;
+}
+
+.btn-outline-success {
+  color: var(--bs-btn-hover-border-color);
+}
+
+.tab-content > .tab-pane {
+  height: 100%;
+  visibility: hidden;
+}
+
+.tab-content > .active {
+  visibility: visible;
+}
