@@ -1,0 +1,2 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:{},d=(new e.Error).stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="1482d05d-4c7c-480c-96e0-2128b99af10b",e._sentryDebugIdIdentifier="sentry-dbid-1482d05d-4c7c-480c-96e0-2128b99af10b")}catch(n){}}();const e='<img :src="img" alt="avatar" loading="lazy" class="w-8 h-8 rounded-full" />\n';export{e as default};
+//# sourceMappingURL=avatar-2aILWvzh.js.map
