@@ -1,0 +1,2 @@
+try{let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="23741752-8e92-48a0-9bae-9e1734b619c7",e._sentryDebugIdIdentifier="sentry-dbid-23741752-8e92-48a0-9bae-9e1734b619c7")}catch(n){}import"./index-R8NVSIQE.js";const e={mec:-1,mecnom:"",usuario:""};export{e as E};
+//# sourceMappingURL=mec-BI2ekDrO.js.map
