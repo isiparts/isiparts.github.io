@@ -1,0 +1,2 @@
+try{let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},f=(new e.Error).stack;f&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[f]="8f87c011-bf62-4ff1-b177-accfeed30959",e._sentryDebugIdIdentifier="sentry-dbid-8f87c011-bf62-4ff1-b177-accfeed30959")}catch(f){}import"./pusher-js-tkqgH1_q.js";const e={mec:-1,mecnom:"",usuario:""};export{e as E};
+//# sourceMappingURL=mec-CmrCnJLL.js.map
