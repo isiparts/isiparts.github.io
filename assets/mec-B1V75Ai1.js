@@ -1,0 +1,2 @@
+try{let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},d=(new e.Error).stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="6c50f9eb-d8e8-4b93-9d9c-6e993627997a",e._sentryDebugIdIdentifier="sentry-dbid-6c50f9eb-d8e8-4b93-9d9c-6e993627997a")}catch(d){}import"./call-bind-BFQqbmjp.js";const e={mec:-1,mecnom:"",usuario:""};export{e as E};
+//# sourceMappingURL=mec-B1V75Ai1.js.map

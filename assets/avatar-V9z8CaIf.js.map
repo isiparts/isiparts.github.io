@@ -1,0 +1,1 @@
+{"version":3,"file":"avatar-V9z8CaIf.js","sources":["../../src/components/shared/avatar/avatar.html?raw"],"sourcesContent":["export default \"<img :src=\\\"img\\\" alt=\\\"avatar\\\" loading=\\\"lazy\\\" class=\\\"w-8 h-8 rounded-full\\\" />\\n\""],"names":["avatar"],"mappings":"gXAAA,MAAeA,EAAA"}
